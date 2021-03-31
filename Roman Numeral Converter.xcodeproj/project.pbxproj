@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0A4EBD652614108F002A251A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0A4EBD642614108F002A251A /* main.cpp */; };
+		0A4EBD6E261410C6002A251A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0A4EBD6D261410C6002A251A /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		0A4EBD612614108F002A251A /* Roman Numeral Converter */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Roman Numeral Converter"; sourceTree = BUILT_PRODUCTS_DIR; };
-		0A4EBD642614108F002A251A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		0A4EBD6D261410C6002A251A /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		0A4EBD632614108F002A251A /* Roman Numeral Converter */ = {
 			isa = PBXGroup;
 			children = (
-				0A4EBD642614108F002A251A /* main.cpp */,
+				0A4EBD6D261410C6002A251A /* main.cpp */,
 			);
 			path = "Roman Numeral Converter";
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0A4EBD652614108F002A251A /* main.cpp in Sources */,
+				0A4EBD6E261410C6002A251A /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
